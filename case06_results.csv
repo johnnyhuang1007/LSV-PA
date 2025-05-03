@@ -1,0 +1,4 @@
+Case Path,Enable Output Bus,Bus Group Enable,Matched Number
+case06,0,0,5
+case06,1,1,5
+case06,1,0,5
